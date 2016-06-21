@@ -1,0 +1,14 @@
+{
+  "name": "datavis",
+  "description": "tool for visualizing data visualizations",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/mdubie/dataVis",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
